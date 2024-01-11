@@ -1,0 +1,60 @@
+
+
+#mercedes {
+    background-image: url(ewqqhl6llfdelaamjm8n.avif);
+    background-size: cover ;
+    background-position: center;
+    height: 700px;
+}
+
+#bmw {
+    background-image: url(bmw-x-series-x5-sp-desktop.jpg);
+    background-size: cover ;
+    background-position: center;
+    height: 700px;
+}
+
+#volkswagen {
+    background-image: url(2022-volkswagen-golf-r-exterior.jpg);
+    background-size: cover ;
+    background-position: center;
+    height: 800px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+main{
+    min-height: 90vh;
+}
+
+body{
+    background: rgb(255,0,0);
+    background: linear-gradient(0deg, rgba(255,0,0,1) 0%, rgba(161,26,26,1) 100%);
+}
+
+.btn-primary{
+    background-color: #a10000;
+}
+
+.btn-primary:hover{
+    background-color: #a10000;
+}
+
+h1{
+    color: #ffffff;
+}
+
+#bmw1{
+    background: none;
+}
+
+#v{
+    background: none;
+}
+
+#m{
+    background: none;
+}
